@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-flow: column;
+}
+
+.button-container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+.error {
+    
+}
